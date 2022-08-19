@@ -1,0 +1,29 @@
+﻿form load function:
+
+	start function
+
+	readlocaldata function
+		local JSON file is read
+		data retrieved and processed
+		processed data is sent back to start function
+	data is updated to the application
+
+
+Get New Updated Data:
+	
+	change user button click function
+	check input fucntion with id data sent
+
+	flow splits into two:
+		getwebdatacustom function called with id
+		getwebdata function called with id
+
+		(or)
+		getwebdata function directly called
+
+		data retrieved from the internet
+		local JSON file Updated
+
+		start function called from change user button function
+		line 3 is executed
+	

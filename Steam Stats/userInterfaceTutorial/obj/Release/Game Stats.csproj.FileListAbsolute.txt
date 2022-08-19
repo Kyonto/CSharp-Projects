@@ -1,0 +1,23 @@
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Game Stats.exe.config
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Game Stats.exe.manifest
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Game Stats.application
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Game Stats.exe
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Game Stats.pdb
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\CircularProgressBar.dll
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Newtonsoft.Json.dll
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\WinFormAnimation.dll
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\CircularProgressBar.xml
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Release\Newtonsoft.Json.xml
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.csproj.AssemblyReference.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.csproj.SuggestedBindingRedirects.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\userInterfaceTutorial.csgoStatsForm.resources
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\userInterfaceTutorial.SteamStatsForm.resources
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\userInterfaceTutorial.Properties.Resources.resources
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.csproj.GenerateResource.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.csproj.CoreCompileInputs.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.TrustInfo.xml
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.exe.manifest
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.application
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.csproj.CopyComplete
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.exe
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Release\Game Stats.pdb

@@ -1,0 +1,12 @@
+﻿Basics:
+	https://vartree.blogspot.com/2012/11/harvesting-data-from-steam-community-api.html
+	https://partner.steamgames.com/documentation/community_data
+	https://steamcommunity.com/dev
+	https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalAchievementPercentagesForApp_.28v0001.29
+
+Converter:
+	https://www.convertdatatypes.com/Convert-int-to-string-in-CSharp.html
+
+Mother Load:
+	https://partner.steamgames.com/doc/api
+	https://partner.steamgames.com/doc/webapi

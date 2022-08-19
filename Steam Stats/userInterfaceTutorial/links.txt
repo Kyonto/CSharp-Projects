@@ -1,0 +1,14 @@
+https://partner.steamgames.com/documentation/community_data
+https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0001/?key=155E26AAB97BFEAD2F24F1207B55A603&steamids=76561199065865022
+https://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=155E26AAB97BFEAD2F24F1207B55A603&vanityurl=Kyonto
+https://www.convertdatatypes.com/Convert-int-to-string-in-CSharp.html
+https://partner.steamgames.com/doc/webapi
+https://partner.steamgames.com/doc/webapi/ISteamUserStats
+https://partner.steamgames.com/doc/features/achievements#global_stats
+https://api.steampowered.com/ISteamUserStats/GetGlobalStatsForGame/v1/?appid=730*&count=1&name[0]=total_kills_fiveseven
+https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=730&key=155E26AAB97BFEAD2F24F1207B55A603&steamid=76561198324538834
+http://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key=155E26AAB97BFEAD2F24F1207B55A603&steamid=76561198362605034&include_appinfo=true
+http://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v0002/?key=155E26AAB97BFEAD2F24F1207B55A603&appid=730&l=english&format=json
+https://steamcommunity.com/id/Kyonto/?xml=1
+http://jsonviewer.stack.hu/
+https://steamapi.xpaw.me/#ISteamApps

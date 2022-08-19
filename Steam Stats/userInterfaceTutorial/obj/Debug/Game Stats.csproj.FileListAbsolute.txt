@@ -1,0 +1,23 @@
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\CircularProgressBar.dll
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Newtonsoft.Json.dll
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\WinFormAnimation.dll
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\CircularProgressBar.xml
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Newtonsoft.Json.xml
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.csproj.SuggestedBindingRedirects.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\userInterfaceTutorial.csgoStatsForm.resources
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\userInterfaceTutorial.Properties.Resources.resources
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.csproj.GenerateResource.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.csproj.CoreCompileInputs.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.csproj.CopyComplete
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.csproj.AssemblyReference.cache
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Game Stats.exe.config
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Game Stats.exe.manifest
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Game Stats.application
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Game Stats.exe
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\bin\Debug\Game Stats.pdb
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\userInterfaceTutorial.SteamStatsForm.resources
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.TrustInfo.xml
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.exe.manifest
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.application
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.exe
+D:\Sivaguru\Programming\C#\UI Ux\userInterfaceTutorial\userInterfaceTutorial\obj\Debug\Game Stats.pdb

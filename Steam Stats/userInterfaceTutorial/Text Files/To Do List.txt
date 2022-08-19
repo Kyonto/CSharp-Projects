@@ -1,0 +1,26 @@
+﻿check features offered by official steam web apis
+check features offered by community steam web apis
+
+Data Addition:
+	change user profile picture - Done
+	Account Created Date - Done
+	Last Online Time - Done
+	steam level - Done
+
+error handling:
+	simple (blank input in new ID - Done)
+	ReadLocalData No Return fix - Done 
+	simple (Missing Local JSON File - Done) - C# automatically creates a new JSON file in case of missing file
+
+form moveble without border - Done
+
+enable custom id search feature - Done (used Steam API to convert Custom ID to steam64 ID)
+
+simple stuff:
+	clear textbox after button click - Done
+	create exit button
+
+introduce settings menu
+
+introduce Help Menu
+

@@ -1,0 +1,9 @@
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\bin\Release\Demo Project.dll
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\bin\Release\Demo Project.pdb
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\bin\Release\ScriptHookVDotNet2.dll
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\bin\Release\ScriptHookVDotNet2.xml
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\obj\Release\Demo Project.csproj.AssemblyReference.cache
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\obj\Release\Demo Project.csproj.CoreCompileInputs.cache
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\obj\Release\Demo Project.csproj.CopyComplete
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\obj\Release\Demo Project.dll
+D:\Programming\GTA 5 Modding\Grand Theft Auto V Modding\Demo Project\obj\Release\Demo Project.pdb
